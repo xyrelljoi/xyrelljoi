@@ -1,5 +1,5 @@
 ### Hi!👋
-## I'm Xyrell Joi Quirona, but you may call me Xy. I am an upcoming third year college student next school year and currently taking a bachelor degree in Information Systems. My goal is to learn git and GitHub and be able to collaborate on open source. Programming languages that I learned so far are: **Java, SQL, C++, JavaScript, HTML, CSS**. :))
+I'm Xyrell Joi Quirona, but you may call me Xy. I am an upcoming third year college student next school year and currently taking a bachelor degree in Information Systems. My goal is to learn git and GitHub and be able to collaborate on open source. Programming languages that I learned so far are: **Java, SQL, C++, JavaScript, HTML, CSS**. :))
 
 ### Here's how to reach me! ✨
 
