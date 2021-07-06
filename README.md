@@ -21,9 +21,6 @@ I'm **Xyrell Joi Quirona(She/Her/Hers)**, but you may call me **Xy** for short(p
 - SurPath Hub (Moderator)
 - EddieHub (Member)
 
-### ⚡ Fun fact
-An avid fan of 5SOS. A shy sagittarius ♐
-
 ### ✨ Here's how to reach me! 
 <p>
 <a href ="https://www.instagram.com/saireljoi/">
