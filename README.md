@@ -13,13 +13,16 @@ I'm **Xyrell Joi Quirona(She/Her/Hers)**, but you may call me **Xy** for short(p
 - C++
 - HTML
 
-### 🌱 Currently learning on 
+### 🌱 Currently learning on
 - JavaScript
 - CSS
 
 ### 💻 Organization that I'm involved with
 - SurPath Hub (Moderator)
 - EddieHub (Member)
+
+### ⚡ Fun fact
+An avid fan of 5SOS. A shy sagittarius ♐
 
 ### ✨ Here's how to reach me! 
 <p>
