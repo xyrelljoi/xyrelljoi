@@ -22,6 +22,7 @@ I'm **Xyrell Joi Quirona(She/Her/Hers)**, but you may call me **Xy**for short(pr
 - EddieHub (Member)
 
 ### Here's how to reach me! ✨
-**Instagram:** [saireljoi](https://www.instagram.com/saireljoi)
+<img src="img/ig_favicon-32x32.png">
+  <a href ="https://www.instagram.com/saireljoi">
 <br/>
 **Twitter:** [seevera_xyrell](https://www.twitter.com/seevera_xyrell)
