@@ -13,15 +13,15 @@ I'm **Xyrell Joi Quirona(She/Her/Hers)**, but you may call me **Xy** for short(p
 - C++
 - HTML
 
-### Currently learning on 🌱
+### 🌱 Currently learning on 
 - JavaScript
 - CSS
 
-### Organization that I'm involved with
+### 💻 Organization that I'm involved with
 - SurPath Hub (Moderator)
 - EddieHub (Member)
 
-### Here's how to reach me! ✨
+### ✨ Here's how to reach me! 
 <p>
 <a href ="https://www.instagram.com/saireljoi" target= "_blank">
   <img src="img/instagram_favicon-32x32.png">
