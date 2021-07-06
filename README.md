@@ -1,22 +1,23 @@
 ### Hi!👋
-I'm Xyrell Joi Quirona, but you may call me Xy. I am an upcoming third year college student next school year and currently taking a bachelor degree in Information Systems. My goal is to learn git and GitHub and be able to collaborate on open source. Programming languages that I learned so far are: **Java, SQL, C++, JavaScript, HTML, CSS**. :))
+I'm Xyrell Joi Quirona(**She/Her/Hers**), but you may call me **Xy**(pronounced as "Sai"). I am an upcoming third year college student next school year and currently taking a bachelor degree in Information Systems. My goal is to learn git and GitHub and be able to collaborate on open source.
+
+### Programming Languages I've learned so far 👩‍💻
+- Java
+- Visual Basic
+- SQL
+- C++
+- JavaScript
+- HTML
+- CSS
+
+### Currently learning on 🌱
+- JavaScript
+
+### Organization that I'm involved with
+- SurPath Hub (Moderator)
+- EddieHub (Member)
 
 ### Here's how to reach me! ✨
-
 **Instagram:** [saireljoi](https://www.instagram.com/saireljoi)
-<!--
-**xyrelljoi/xyrelljoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to c
-
-ollaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+**Twitter:** [seevera_xyrell](https://www.twitter.com/seevera_xyrell)
