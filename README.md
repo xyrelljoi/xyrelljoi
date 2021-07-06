@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://64.media.tumblr.com/eb1fb7885656e81135e2ec782c1438d2/tumblr_opwi480i121qlh9h7o1_500.gif" width="120"/>
+  <img src="https://64.media.tumblr.com/eb1fb7885656e81135e2ec782c1438d2/tumblr_opwi480i121qlh9h7o1_500.gif" width="100"/>
 </h1>
 
 
