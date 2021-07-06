@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://64.media.tumblr.com/eb1fb7885656e81135e2ec782c1438d2/tumblr_opwi480i121qlh9h7o1_500.gif" width="150">
+  <img src="https://64.media.tumblr.com/eb1fb7885656e81135e2ec782c1438d2/tumblr_opwi480i121qlh9h7o1_500.gif" width="150"/>
 </h1>
 
 
 ### 👋 Hi!
-I'm **Xyrell Joi Quirona(She/Her/Hers)**, but you may call me **Xy**for short(pronounced as *"Sai"*). I am an upcoming third year college student and currently taking a bachelor degree in Information Systems. My goal is to learn git and GitHub and be able to collaborate on open source.
+I'm **Xyrell Joi Quirona(She/Her/Hers)**, but you may call me **Xy** for short(pronounced as *"Sai"*). I am an upcoming third year college student and currently taking a bachelor degree in Information Systems. My goal is to learn git and GitHub and be able to collaborate on open source.
 
 ### 👩‍💻 Programming Languages I've learned so far 
 - Java
@@ -22,7 +22,12 @@ I'm **Xyrell Joi Quirona(She/Her/Hers)**, but you may call me **Xy**for short(pr
 - EddieHub (Member)
 
 ### Here's how to reach me! ✨
-<img src="img/ig_favicon-32x32.png">
-  <a href ="https://www.instagram.com/saireljoi">
-<br/>
-**Twitter:** [seevera_xyrell](https://www.twitter.com/seevera_xyrell)
+<p>
+<a href ="https://www.instagram.com/saireljoi" target= "_blank">
+  <img src="img/instagram_favicon-32x32.png">
+</a>
+<a href="#">
+<a href ="https://www.twitter.com/seevera_xyrell" target= "_blank">
+  <img src="img/twitter_favicon-32x32.png">
+<a href="#">
+ </p>
