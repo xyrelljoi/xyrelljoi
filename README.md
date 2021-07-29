@@ -24,7 +24,7 @@ Program | <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual
 <div align = center>
 <h2> 💻 Organization that I'm involved with </h2>
  <ul>
-  <li>SurPath Hub (Community Moderator and Graphic Designer)</li>
+  <li>SurPath Hub (Community Moderator and Designer, Event staff and organizer)</li>
   <li>EddieHub (Community Member)</li>
   <li>Eduhub (Web Developer)</li>
  </ul>
