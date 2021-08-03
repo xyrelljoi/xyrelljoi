@@ -4,7 +4,7 @@
   <h2>👋 Welcome!</h2>
   <p>
     <strong>Hi! I'm Xy!(She/Her)</strong></br>
-I am an upcoming third year college student and currently taking a bachelor degree in Information Systems. My goal is to learn git and GitHub and be able to collaborate on an open source.
+I am an upcoming third year college student and currently taking a bachelor degree in Information Systems. My goal is to learn git and GitHub and be able to collaborate on an open source. Willing to learn more and open for fresh ideas.🥳
  </p>
 </div>
 <div align = center>
