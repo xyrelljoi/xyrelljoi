@@ -22,11 +22,11 @@ Program | <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual
 **Design** | <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 <div align = "center">
-<h2> 💻 Organization that I'm involved with </h2>
+<h2> 💻 Organizations</h2>
  <ul>
-  <li>SurPath Hub (Community Moderator and Designer, Event staff and organizer)</li>
-  <li>EddieHub (Community Member)</li>
-  <li>Eduhub (Web Developer)</li>
+  <li><b>SurPath Hub</b> (Community Moderator and Designer, Event staff and organizer)</li>
+  <li><b>EddieHub</b> (Community Member)</li>
+  <li><b>Eduhub</b> (Web Developer)</li>
  </ul>
 <img src= "https://github-readme-stats.vercel.app/api?username=xyrelljoi&show_icons=true&title_color=fe7773&icon_color=fe7773&count_private=true"/>
 </div>
@@ -35,7 +35,7 @@ Program | <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual
 <h2> ✨ Here's how to reach me! </h2>
   
 [<img align="center" src='img/instagram_favicon-32x32.png' alt='instagram'>](https://www.instagram.com/saireljoi/) 
-[<img align="center" src='img/twitter_favicon-32x32.png' alt='twitter'>](https://www.twitter.com/seevera_xyrell/) 
+[<img align="center" src='img/twitter_favicon-32x32.png' alt='twitter'>](https://www.twitter.com/saireljoi/) 
 [<img align="center" src='img/favicon-32x32.png' alt='linkedin'>](https://www.linkedin.com/in/xyrell-joi-quirona-bb6b14136/) 
 
   </div>
