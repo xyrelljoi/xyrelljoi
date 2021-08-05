@@ -37,5 +37,5 @@ Program | <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual
 [<img align="center" src="img/instagram_favicon-32x32.png" alt="instagram">](https://www.instagram.com/saireljoi/) 
 [<img align="center" src="img/twitter_favicon-32x32.png" alt="twitter">](https://www.twitter.com/saireljoi/) 
 [<img align="center" src="img/favicon-32x32.png" alt="linkedin">](https://www.linkedin.com/in/xyrell-joi-quirona-bb6b14136/) 
-<img align="center" src="img/discord_favicon-32x32.png" alt="xyrelljoi#7331">
+<img align="center" src="img/discord_favicon-32x32.png" title="xyrelljoi #7331" alt="xyrelljoi#7331">
   </div>
