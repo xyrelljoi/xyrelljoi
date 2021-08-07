@@ -3,7 +3,7 @@
   <br/>
   <h2>👋 Hi! I'm Xy!</h2>
   <p>
-    My name is <strong>Xyrell Joi Quirona(She/Her)</strong> and I am an upcoming third year college student, currently taking a bachelor degree in Information Systems. My goal is to learn git and GitHub and be able to collaborate on an open source. Willing to learn more and open for fresh ideas.🥳
+    I'm <strong>Xyrell Joi Quirona(She/Her)</strong> incoming third year college student and currently taking a bachelor degree in Information Systems. My goal is to learn git and GitHub and be able to collaborate on an open source. Willing to learn more and open for fresh ideas.🥳
  </p>
 </div>
 <div align = "center">
