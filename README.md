@@ -1,10 +1,9 @@
 <div align = "center">
   <img src="http://contranetwork.it/wp-content/uploads/2018/01/Kirby_runs_around_and_then_clones_himself_because_that_is_a_normal_thing_kirby_can_do_dont_judge_him_alright.gif" width ="200"/>
   <br/>
-  <h2>👋 Welcome!</h2>
+  <h2>👋 Hi! I'm Xy!</h2>
   <p>
-    <strong>Hi! I'm Xy!(She/Her)</strong></br>
-I am an upcoming third year college student and currently taking a bachelor degree in Information Systems. My goal is to learn git and GitHub and be able to collaborate on an open source. Willing to learn more and open for fresh ideas.🥳
+    My name is <strong>Xyrell Joi Quirona(She/Her)</strong> and I am an upcoming third year college student, currently taking a bachelor degree in Information Systems. My goal is to learn git and GitHub and be able to collaborate on an open source. Willing to learn more and open for fresh ideas.🥳
  </p>
 </div>
 <div align = "center">
