@@ -25,7 +25,7 @@ Program | <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual
  <ul>
   <li><b>SurPath Hub</b> (Community Moderator and Designer, Event staff and organizer)</li>
   <li><b>EddieHub</b> (Community Member)</li>
-  <li><b>Eduhub</b> (Community Moderator and Web Developer)</li>
+  <li><b>Eduhub</b> (Community Member)</li>
  </ul>
 <img src= "https://github-readme-stats.vercel.app/api?username=xyrelljoi&show_icons=true&title_color=fe7773&icon_color=fe7773&count_private=true"/>
 </div>
